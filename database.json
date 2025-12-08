@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People",
+      "author": "Aditya Bhargava",
+      "year": 2016,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 2,
+      "title": "Code: The Hidden Language of Computer Hardware and Software",
+      "author": "Charles Petzold",
+      "year": 1999,
+      "is_available": true,
+      "borrower_id": null
+    }
+  ],
+  "members": [
+    {
+      "member_id": 510011,
+      "name": "Daulet",
+      "borrowed_books": []
+    }
+  ]
+}
