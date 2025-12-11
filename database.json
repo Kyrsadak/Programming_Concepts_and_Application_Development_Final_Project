@@ -18,11 +18,147 @@
     },
     {
       "id": 3,
-      "title": "Clean code",
+      "title": "Clean Code",
       "author": "Robert C. Martin",
       "year": 2008,
-      "is_available": false,
-      "borrower_id": 510011
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 4,
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "year": 2009,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 5,
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma",
+      "year": 1994,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 6,
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "year": 2015,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 7,
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "year": 2008,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 8,
+      "title": "Java: The Complete Reference",
+      "author": "Herbert Schildt",
+      "year": 2018,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 9,
+      "title": "Computer Networking: A Top-Down Approach",
+      "author": "James F. Kurose",
+      "year": 2017,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 10,
+      "title": "Operating System Concepts",
+      "author": "Abraham Silberschatz",
+      "year": 2018,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 11,
+      "title": "Database System Concepts",
+      "author": "Abraham Silberschatz",
+      "year": 2011,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 12,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "year": 1999,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 13,
+      "title": "Artificial Intelligence: A Modern Approach",
+      "author": "Stuart Russell, Peter Norvig",
+      "year": 2010,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 14,
+      "title": "Computer Architecture: A Quantitative Approach",
+      "author": "John L. Hennessy, David A. Patterson",
+      "year": 2012,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 15,
+      "title": "Structure and Interpretation of Computer Programs",
+      "author": "Harold Abelson, Gerald Jay Sussman",
+      "year": 1996,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 16,
+      "title": "You Don't Know JS: Scope & Closures",
+      "author": "Kyle Simpson",
+      "year": 2014,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 17,
+      "title": "Fluent Python",
+      "author": "Luciano Ramalho",
+      "year": 2015,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 18,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "year": 2008,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 19,
+      "title": "Clean Architecture",
+      "author": "Robert C. Martin",
+      "year": 2017,
+      "is_available": true,
+      "borrower_id": null
+    },
+    {
+      "id": 20,
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "year": 1999,
+      "is_available": true,
+      "borrower_id": null
     }
   ],
   "members": [
