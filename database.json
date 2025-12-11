@@ -15,6 +15,14 @@
       "year": 1999,
       "is_available": true,
       "borrower_id": null
+    },
+    {
+      "id": 3,
+      "title": "Clean code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "is_available": false,
+      "borrower_id": 510011
     }
   ],
   "members": [
